@@ -1,0 +1,61 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+#titulo{
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 5px solid black;
+    padding: 3px;
+   
+}
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    text-decoration: underline black;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+a{
+    color: blue;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    background-color: yellow;
+}
+.Info{
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 500px;
+    border: 1px solid black;
+    padding-left: 8px;
+    
+}
+.icono{
+    margin-right: 7px;
+}
+#demo{
+    margin: 0 auto;
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+
+
+
+
